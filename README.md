@@ -1,1 +1,1 @@
-# stat-prac-7th-term
+# stat-prac-6th-term
